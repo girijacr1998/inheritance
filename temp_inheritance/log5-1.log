@@ -1,0 +1,14 @@
+A critical message
+A critical message
+A critical message
+2020-04-30 11:25:54,122 logger2 ERROR this entry should be logged in log5-1.log
+A critical message
+2020-04-30 11:50:26,129 logger2 ERROR    this entry should be logged in log5-1.log
+A critical message
+2020-04-30 11:51:52,821 logger2 ERROR this entry should be logged in log5-1.log
+A critical message
+2020-04-30 11:52:31,063 logger2 ERROR this entry should be logged in log5-1.log
+A critical message
+2020-04-30 17:00:35,490 logger2 ERROR this entry should be logged in log5-1.log
+A critical message
+2020-04-30 17:58:54,865 logger2 ERROR this entry should be logged in log5-1.log

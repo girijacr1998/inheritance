@@ -1,0 +1,10 @@
+2020-04-30 17:15:47,049 __main__     INFO     hi
+2020-04-30 17:15:47,084 __main__     DEBUG    this
+2020-04-30 17:15:47,085 __main__     WARNING  is the example
+2020-04-30 17:15:47,086 __main__     ERROR    of dict configuration
+2020-04-30 17:15:47,086 __main__     CRITICAL succesfully completed
+2020-04-30 17:16:30,855 test         INFO     hi
+2020-04-30 17:16:30,855 test         DEBUG    this
+2020-04-30 17:16:30,855 test         WARNING  is the example
+2020-04-30 17:16:30,855 test         ERROR    of dict configuration
+2020-04-30 17:16:30,855 test         CRITICAL succesfully completed

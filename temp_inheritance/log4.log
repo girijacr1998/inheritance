@@ -1,0 +1,13 @@
+INFO:root:starting
+INFO:root:starting
+INFO:root:finished
+INFO:root:starting
+INFO:root:starting
+INFO:root:starting
+CRITICAL:root:Addition of 3 and 4 gives 7
+INFO:root:finished
+INFO:root:starting
+INFO:root:starting
+INFO:root:starting
+CRITICAL:root:Addition of3and4gives7
+INFO:root:finished

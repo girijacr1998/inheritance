@@ -1,0 +1,15 @@
+A message at WARNING level with 2 parameters
+A message at INFO level with 2 parameters
+A message at INFO level with 2 parameters
+A message at WARNING level with 2 parameters
+A message at INFO level with 2 parameters
+2020-04-30 13:24:12,368 logger2 DEBUG A message at DEBUG level with 2 parameters
+2020-04-30 13:24:12,368 logger2 CRITICAL A message at CRITICAL level with 2 parameters
+2020-04-30 13:24:12,368 logger2 DEBUG A message at DEBUG level with 2 parameters
+2020-04-30 13:24:12,368 logger2 INFO A message at INFO level with 2 parameters
+2020-04-30 13:24:12,368 logger2 CRITICAL A message at CRITICAL level with 2 parameters
+2020-04-30 18:07:23,933 logger2 WARNING A message at WARNING level with 2 parameters
+2020-04-30 18:07:23,933 logger2 CRITICAL A message at CRITICAL level with 2 parameters
+2020-04-30 18:07:23,937 logger2 DEBUG A message at DEBUG level with 2 parameters
+2020-04-30 18:07:23,937 logger2 WARNING A message at WARNING level with 2 parameters
+2020-04-30 18:07:23,937 logger2 CRITICAL A message at CRITICAL level with 2 parameters

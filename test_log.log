@@ -1,0 +1,131 @@
+2020-04-23 17:17:30,780 root         INFO     started running the file :wrapper
+2020-04-23 17:17:31,780 root         INFO     Done running:index
+2020-04-23 17:17:31,784 root         INFO     index ran in0.9881763458251953 sec
+2020-04-23 17:17:57,405 root         INFO     started running the file :wrapper
+2020-04-23 17:17:57,849 root         INFO     Done running:others
+2020-04-23 17:17:57,853 root         INFO     others ran in0.44400668144226074 sec
+2020-04-23 17:26:46,511 django.utils.autoreload INFO     C:\Users\elcot\inh\inheritance\temp_inheritance\views.py changed, reloading.
+2020-04-23 17:26:47,027 asyncio      DEBUG    Using proactor: IocpProactor
+2020-04-23 17:28:02,141 root         INFO     started running the file :wrapper
+2020-04-23 17:28:02,205 root         INFO     Done running:index
+2020-04-23 17:28:02,205 root         INFO     index ran in0.059993743896484375 sec
+2020-04-23 17:28:07,407 root         INFO     started running the file :wrapper
+2020-04-23 17:28:07,411 root         INFO     Done running:others
+2020-04-23 17:28:07,414 root         INFO     others ran in0.003991365432739258 sec
+2020-04-23 17:30:21,079 django.utils.autoreload INFO     C:\Users\elcot\inh\inheritance\temp_inheritance\views.py changed, reloading.
+2020-04-23 17:30:21,187 asyncio      DEBUG    Using proactor: IocpProactor
+2020-04-23 17:30:31,712 root         INFO     started running the file :wrapper
+2020-04-23 17:30:31,788 root         ERROR    no such templates are found
+Traceback (most recent call last):
+  File "C:\Users\elcot\inh\inheritance\temp_inheritance\views.py", line 67, in others
+    return render(request,'temp_inheritance/others.html')
+  File "C:\Users\elcot\Envs\two\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\elcot\Envs\two\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\elcot\Envs\two\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: temp_inheritance/others.html
+2020-04-23 17:30:32,268 root         INFO     Done running:others
+2020-04-23 17:30:32,268 root         INFO     others ran in0.5520024299621582 sec
+2020-04-23 17:30:33,904 django.request ERROR    Internal Server Error: /inheritance/others/
+Traceback (most recent call last):
+  File "C:\Users\elcot\Envs\two\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\elcot\Envs\two\lib\site-packages\django\core\handlers\base.py", line 124, in _get_response
+    raise ValueError(
+ValueError: The view temp_inheritance.views.wrapper didn't return an HttpResponse object. It returned None instead.
+2020-04-23 17:30:34,424 root         INFO     started running the file :wrapper
+2020-04-23 17:30:34,428 root         ERROR    no such templates are found
+Traceback (most recent call last):
+  File "C:\Users\elcot\inh\inheritance\temp_inheritance\views.py", line 67, in others
+    return render(request,'temp_inheritance/others.html')
+  File "C:\Users\elcot\Envs\two\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\elcot\Envs\two\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\elcot\Envs\two\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: temp_inheritance/others.html
+2020-04-23 17:30:34,428 root         INFO     Done running:others
+2020-04-23 17:30:34,428 root         INFO     others ran in0.0 sec
+2020-04-23 17:30:34,532 django.request ERROR    Internal Server Error: /inheritance/others/
+Traceback (most recent call last):
+  File "C:\Users\elcot\Envs\two\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\elcot\Envs\two\lib\site-packages\django\core\handlers\base.py", line 124, in _get_response
+    raise ValueError(
+ValueError: The view temp_inheritance.views.wrapper didn't return an HttpResponse object. It returned None instead.
+2020-04-23 17:31:58,781 root         INFO     started running the file :wrapper
+2020-04-23 17:31:58,929 root         INFO     Done running:index
+2020-04-23 17:31:58,937 root         INFO     index ran in0.1479964256286621 sec
+2020-04-23 17:32:01,981 root         INFO     started running the file :wrapper
+2020-04-23 17:32:01,985 root         ERROR    no such templates are found
+Traceback (most recent call last):
+  File "C:\Users\elcot\inh\inheritance\temp_inheritance\views.py", line 67, in others
+    return render(request,'temp_inheritance/others.html')
+  File "C:\Users\elcot\Envs\two\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\elcot\Envs\two\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\elcot\Envs\two\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: temp_inheritance/others.html
+2020-04-23 17:32:01,989 root         INFO     Done running:others
+2020-04-23 17:32:01,989 root         INFO     others ran in0.007996320724487305 sec
+2020-04-23 17:32:02,093 django.request ERROR    Internal Server Error: /inheritance/others/
+Traceback (most recent call last):
+  File "C:\Users\elcot\Envs\two\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\elcot\Envs\two\lib\site-packages\django\core\handlers\base.py", line 124, in _get_response
+    raise ValueError(
+ValueError: The view temp_inheritance.views.wrapper didn't return an HttpResponse object. It returned None instead.
+2020-04-23 17:51:15,063 root         INFO     started running the file
+2020-04-23 17:51:15,919 root         INFO     Done running:index
+2020-04-23 17:51:15,919 root         INFO     index ran in0.8119802474975586 sec
+2020-04-23 17:51:23,972 root         INFO     started running the file
+2020-04-23 17:51:24,068 root         ERROR    no such templates are found
+Traceback (most recent call last):
+  File "C:\Users\elcot\inh\inheritance\temp_inheritance\views.py", line 67, in others
+    return render(request,'temp_inheritance/others.html')
+  File "C:\Users\elcot\Envs\two\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\elcot\Envs\two\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\elcot\Envs\two\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: temp_inheritance/others.html
+2020-04-23 17:51:24,148 root         INFO     Done running:others
+2020-04-23 17:51:24,148 root         INFO     others ran in0.1759934425354004 sec
+2020-04-23 17:51:24,804 django.request ERROR    Internal Server Error: /inheritance/others/
+Traceback (most recent call last):
+  File "C:\Users\elcot\Envs\two\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\elcot\Envs\two\lib\site-packages\django\core\handlers\base.py", line 124, in _get_response
+    raise ValueError(
+ValueError: The view temp_inheritance.views.wrapper didn't return an HttpResponse object. It returned None instead.
+2020-04-27 16:49:14,232 root         INFO     started running the file
+2020-04-27 16:49:20,031 root         INFO     Done running:index
+2020-04-27 16:49:20,035 root         INFO     index ran in5.3343505859375 sec
+2020-04-27 16:49:24,413 django.request WARNING  Not Found: /favicon.ico
+2020-04-27 17:23:33,434 root         INFO     started running the file
+2020-04-27 17:23:33,466 root         ERROR    no such templates are found
+Traceback (most recent call last):
+  File "C:\Users\elcot\inh\inheritance\temp_inheritance\views.py", line 67, in others
+    return render(request,'temp_inheritance/others.html')
+  File "C:\Users\elcot\Envs\two\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\elcot\Envs\two\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\elcot\Envs\two\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: temp_inheritance/others.html
+2020-04-27 17:23:33,926 root         INFO     Done running:others
+2020-04-27 17:23:33,930 root         INFO     others ran in0.49199986457824707 sec
+2020-04-27 17:23:36,134 django.request ERROR    Internal Server Error: /inheritance/others/
+Traceback (most recent call last):
+  File "C:\Users\elcot\Envs\two\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\elcot\Envs\two\lib\site-packages\django\core\handlers\base.py", line 124, in _get_response
+    raise ValueError(
+ValueError: The view temp_inheritance.views.wrapper didn't return an HttpResponse object. It returned None instead.

@@ -1,0 +1,6 @@
+A debug message
+An info message with some parameters
+2020-04-30 13:24:12,368 logger1 DEBUG A debug message
+2020-04-30 13:24:12,368 logger1 INFO An info message with some parameters
+2020-04-30 18:07:23,924 logger1 DEBUG A debug message
+2020-04-30 18:07:23,928 logger1 INFO An info message with some parameters

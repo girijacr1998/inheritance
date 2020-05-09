@@ -1,0 +1,37 @@
+ERROR:root:This is for error
+CRITICAL:root:This is to be called when the critical situation come
+DEBUG:root:This is the debug message
+INFO:root:This is info
+WARNING:root:This is for warning
+ERROR:root:This is for error
+CRITICAL:root:This is to be called when the critical situation come
+root-DEBUG-This is the debug message
+root-INFO-This is info
+root-WARNING-This is for warning
+root-ERROR-This is for error
+root-CRITICAL-This is to be called when the critical situation come
+4368-DEBUG-This is the debug message
+4368-INFO-This is info
+4368-WARNING-This is for warning
+4368-ERROR-This is for error
+4368-CRITICAL-This is to be called when the critical situation come
+ 04 29 20 07:48:41 PM-4056-DEBUG-This is the debug message
+ 04 29 20 07:48:41 PM-4056-INFO-This is info
+ 04 29 20 07:48:41 PM-4056-WARNING-This is for warning
+ 04 29 20 07:48:41 PM-4056-ERROR-This is for error
+ 04 29 20 07:48:41 PM-4056-CRITICAL-This is to be called when the critical situation come
+ 04:29:20 07:49:09 PM-6448-DEBUG-This is the debug message
+ 04:29:20 07:49:09 PM-6448-INFO-This is info
+ 04:29:20 07:49:09 PM-6448-WARNING-This is for warning
+ 04:29:20 07:49:09 PM-6448-ERROR-This is for error
+ 04:29:20 07:49:09 PM-6448-CRITICAL-This is to be called when the critical situation come
+ 04:30:20 05:38:50 PM-3948-DEBUG-This is the debug message
+ 04:30:20 05:38:50 PM-3948-INFO-This is info
+ 04:30:20 05:38:50 PM-3948-WARNING-This is for warning
+ 04:30:20 05:38:50 PM-3948-ERROR-This is for error
+ 04:30:20 05:38:50 PM-3948-CRITICAL-This is to be called when the critical situation come
+ 04:30:20 05:41:25 PM-6132-DEBUG-log3-1:This is the debug message
+ 04:30:20 05:41:25 PM-6132-INFO-log3-1:This is info
+ 04:30:20 05:41:25 PM-6132-WARNING-log3-1:This is for warning
+ 04:30:20 05:41:25 PM-6132-ERROR-log3-1:This is for error
+ 04:30:20 05:41:25 PM-6132-CRITICAL-log3-1:This is to be called when the critical situation come
